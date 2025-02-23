@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B802D5F1-CAD8-4DCD-89EA-44AAC829CC24}|AdvancedProgramming.Models\\AdvancedProgramming.Models.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.models\\notificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B802D5F1-CAD8-4DCD-89EA-44AAC829CC24}|AdvancedProgramming.Models\\AdvancedProgramming.Models.csproj|solutionrelative:advancedprogramming.models\\notificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositorycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositorycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC8716A-ED38-490E-9786-BE75A0D4C2E7}|AdvancedProgramming\\AdvancedProgramming.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC8716A-ED38-490E-9786-BE75A0D4C2E7}|AdvancedProgramming\\AdvancedProgramming.csproj|solutionrelative:advancedprogramming\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC8716A-ED38-490E-9786-BE75A0D4C2E7}|AdvancedProgramming\\AdvancedProgramming.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EC8716A-ED38-490E-9786-BE75A0D4C2E7}|AdvancedProgramming\\AdvancedProgramming.csproj|solutionrelative:advancedprogramming\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F494FB28-6C9A-4989-AE73-72948BC8D5BD}|AdvancedProgramming.Service\\AdvancedProgramming.Service.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F494FB28-6C9A-4989-AE73-72948BC8D5BD}|AdvancedProgramming.Service\\AdvancedProgramming.Service.csproj|solutionrelative:advancedprogramming.service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositoryuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositoryuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositorysupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositorysupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositoryrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositoryrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\advancedprogramming.repository\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451901BC-EC2C-43D0-9E8A-96D409204269}|AdvancedProgramming.Repository\\AdvancedProgramming.Repository.csproj|solutionrelative:advancedprogramming.repository\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryCategory.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryCategory.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositoryCategory.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryCategory.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositoryCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:46:59.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositorySupplier.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositorySupplier.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositorySupplier.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositorySupplier.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositorySupplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:46:47.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "AdvancedProgramming\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:42:19.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryProduct.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryProduct.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositoryProduct.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryProduct.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositoryProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:47:00.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationHandler.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Models\\NotificationHandler.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Models\\NotificationHandler.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Models\\NotificationHandler.cs",
+              "RelativeToolTip": "AdvancedProgramming.Models\\NotificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:46:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryRole.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryRole.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositoryRole.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryRole.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositoryRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:47:01.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdvancedProgramming\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "AdvancedProgramming\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBZwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T02:48:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositoryBase.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:36:39.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryTask.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryTask.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositoryTask.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryTask.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositoryTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:47:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryUser.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryUser.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositoryUser.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryUser.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositoryUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:47:06.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Service\\NotificationService.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Service\\NotificationService.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Service\\NotificationService.cs",
+              "RelativeToolTip": "AdvancedProgramming.Service\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:50:01.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryUserRole.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryUserRole.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Repository\\RepositoryUserRole.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada _\\2025\\Cuatrimestre 1\\AdvancedProgramming\\AdvancedProgramming.Repository\\RepositoryUserRole.cs",
+              "RelativeToolTip": "AdvancedProgramming.Repository\\RepositoryUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:47:07.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
